@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Aicroc/static/css/main.469a0eb7.css",
+    "main.js": "/Aicroc/static/js/main.8055aace.js",
+    "static/media/profilebg1.png": "/Aicroc/static/media/profilebg1.78c3f2d177cf883621e0.png",
+    "static/media/your-logo.png": "/Aicroc/static/media/your-logo.077ca44259d41305aa60.png",
+    "static/media/gold.jpg": "/Aicroc/static/media/gold.0bf214199d13a01dd5fc.jpg",
+    "static/media/infantry.jpg": "/Aicroc/static/media/infantry.9f9700fc76e2cd4e6137.jpg",
+    "static/media/bg3.jpg": "/Aicroc/static/media/bg3.0974be5f78baac21d7ef.jpg",
+    "static/media/ghost.jpg": "/Aicroc/static/media/ghost.4ead3f315915cc54e5f9.jpg",
+    "static/media/diamond.jpg": "/Aicroc/static/media/diamond.b7c720065cb57da0d177.jpg",
+    "index.html": "/Aicroc/index.html",
+    "main.469a0eb7.css.map": "/Aicroc/static/css/main.469a0eb7.css.map",
+    "main.8055aace.js.map": "/Aicroc/static/js/main.8055aace.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.469a0eb7.css",
+    "static/js/main.8055aace.js"
+  ]
+}
